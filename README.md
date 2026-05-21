@@ -91,6 +91,8 @@ juego-lucha-patrones/
 │           └── JuegoLuchaTest.java
 └── pom.xml
 ```
+## Diagrama de Clase
+<img width="393" height="597" alt="image" src="https://github.com/user-attachments/assets/0fe25960-3879-4345-93a4-9c9f933dd8c6" />
 
 ---
 
